@@ -20,3 +20,6 @@ twitter_username: hashblu
 markdown: kramdown
 
 comments: true
+
+sass:
+    sass_dir: ./_sass
