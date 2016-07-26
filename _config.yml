@@ -23,3 +23,5 @@ comments: true
 
 sass:
     sass_dir: ./_sass
+    
+parent_site_name: Hashblu
