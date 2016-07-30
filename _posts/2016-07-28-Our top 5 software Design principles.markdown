@@ -5,11 +5,11 @@ date:   2016-07-28 11:00:00 +0530
 categories: architecture
 ---
 
-So true, "*Simplicity is the soul of efficiency. —Austin Freeman (in The Eye of Osiris)*"
-
 Firstly we totally believe architecture should be simple for long term sustenance. However architecture and design of any system is something that evolves and not necessarily get to desired state from start, key is keep the basics right and think both forward as well as what's done in the past.
 
 Secondly, we as an industry pushing forward, reinventing the way that we build software and striving for craftsmanship at every turn. However sometime continually forgetting the good of the past, and teams are still failing on an alarmingly regular basis.
+
+So true, "*Simplicity is the soul of efficiency. —Austin Freeman (in The Eye of Osiris)*"
 
 Apart from core principles like separation of concerns, single responsibility, principles of least knowledge, avoid repeats, avoid heavy upfront designing, etc.
 
