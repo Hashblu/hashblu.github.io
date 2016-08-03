@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Model and relationships"
-date:   2016-07-29 11:00:00 +0530
+date:   2016-06-29 11:00:00 +0530
 categories: architecture
 ---
 
