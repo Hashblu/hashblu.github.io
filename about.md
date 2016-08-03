@@ -5,7 +5,7 @@ permalink: /about/
 #feature-img: "img/sample_feature_img_2.png"
 ---
 
-Hashblu is a London based startup aimed at making self service and self care for Enterprises & SMES …Simple, Secure, Easy and measurable in ‘Blink times’
+[Hashblu](http://www.hashblu.com) is a London based startup aimed at making self service and self care for Enterprises & SMES …Simple, Secure, Easy and measurable in ‘Blink times’
 
 
 The Hashblu Rules ..

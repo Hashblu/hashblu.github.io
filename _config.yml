@@ -12,8 +12,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Hashblu is a London based startup aimed at making self service and self care for Enterprises & SMES …Simple, Secure, Easy and measurable in ‘Blink times’.</p>
-  header_text_feature_image:
+     <p><a href="http://hashblu.com">Hashblu</a> is a London based startup aimed at making self service and self care for Enterprises & SMES …Simple, Secure, Easy and measurable in ‘Blink times’.</p>
+  header_text_feature_image: "img/outer-space.jpg"
   footer_text: >
    Powered by <a href="http://hashblu.com">Hashblu</a>
 
